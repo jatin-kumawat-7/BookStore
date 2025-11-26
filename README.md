@@ -1,4 +1,4 @@
-Bookstore REST API
+# Bookstore REST API
 
 Overview:
 This is a backend RESTful API for managing books and authors. It allows clients to perform CRUD operations on books and authors, with support for filtering, pagination, and sorting. The project uses Java, Spring Boot, and an in-memory H2 database.
